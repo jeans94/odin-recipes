@@ -25,7 +25,7 @@ Iteration 1: Initial Structure
 In this step, I've laid the groundwork by creating the main index page with an "Odin Recipes" heading. It's the starting point for something that will hopefully become a hub of culinary delights.
 
 Iteration 2: Recipe Page
-Now, I'm diving into creating individual recipe pages. Each page will have an "<h1>" heading with the recipe's name, and I've linked them back to the main index page.
+Now, I'm diving into creating individual recipe pages. Each page will have an "h1" heading with the recipe's name, and I've linked them back to the main index page.
 
 Iteration 3: Recipe Page Content
 The recipe pages are getting more substance – images, descriptions, ingredient lists, and step-by-step instructions. It's not just about structure; it's about creating a holistic experience for anyone exploring these recipes.
