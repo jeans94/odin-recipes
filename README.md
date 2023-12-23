@@ -1,6 +1,7 @@
 # odin-recipes
 
-y Odin Recipes Journey
+Odin Recipes Journey
+
 Hey fellow learners!
 
 I'm excited to share my journey with you as I dive into The Odin Project's Foundations course. Currently, I'm working on a project called "Odin Recipes," and here's the lowdown on what it's all about and why I'm doing it.
